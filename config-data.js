@@ -1,0 +1,457 @@
+window.__CONFIG = {
+  "business": {
+    "name": "HOSTAL VAMPAYÁ",
+    "short_name": "HOSTAL VAMPAYÁ",
+    "tagline": "HOSTAL VAMPAYÁ - Salta",
+    "description": "HOSTAL VAMPAYÁ es tu refugio en Salta después de recorrer.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Salta · Balcarce 81",
+    "title_line1": "Viví",
+    "title_em": "HOSTAL VAMPAYÁ",
+    "title_line2": "desde acá",
+    "subtitle": "Pileta, parrilla y los mejores mates en Salta."
+  },
+  "location": {
+    "address": "Balcarce 81, A4400 Salta",
+    "district": "Salta",
+    "city": "Salta",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Balcarce 81, A4400 Salta, Salta",
+    "map_embed": "https://maps.google.com/maps?q=Balcarce+81%2C+A4400+Salta%2C+Salta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Salta. Cerca de los mejores puntos turísticos.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5493875608957",
+    "phone": "+5493875608957",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/HOSTAL+VAMPAY%C3%81/data=!4m10!3m9!1s0x941bc3ca479b60a1:0x3925630e9a78484a!5m2!4m1!1i2!8m2!3d-24.7887319!4d-65.4123794!16s%2Fg%2F11p73zrh9c!19sChIJoWCbR8rDG5QRSkh4mg5jJTk?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/HOSTAL+VAMPAY%C3%81/data=!4m10!3m9!1s0x941bc3ca479b60a1:0x3925630e9a78484a!5m2!4m1!1i2!8m2!3d-24.7887319!4d-65.4123794!16s%2Fg%2F11p73zrh9c!19sChIJoWCbR8rDG5QRSkh4mg5jJTk?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Lo que hacemos",
+    "title": "HOSTAL VAMPAYÁ, todo lo que necesitás saber.",
+    "paragraphs": [
+      "Te damos la bienvenida a HOSTAL VAMPAYÁ, en el corazón de Salta. Nuestro hostel tiene pileta, parrilla, cocina completa y espacios para relajarte. Somos un hostel chico con mucha onda, donde cada viajero es bienvenido."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Te contestamos el mismo día",
+    "Sin cargos extra por Booking ni otros",
+    "Conocemos la zona, te damos la posta"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Camas que invitan a quedarse",
+      "description": "Descansá bien para mañana seguir recorriendo.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Internet rápido y gratis",
+      "description": "Para subir historias y mandar ubicación a los pingos.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "En el corazón de la zona",
+      "description": "Todo cerca, nada de gastar en taxis.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Carolina R.",
+      "rating": 5,
+      "text": "Súper recomendable. Te sentís como en casa desde el primer momento. Volveremos sin dudas."
+    },
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    },
+    {
+      "author": "Rocío B.",
+      "rating": 5,
+      "text": "Todo perfecto: la limpieza, la atención y las recomendaciones de la gente del lugar. Diez puntos."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Cuánto queda para la playa/centro?",
+      "answer": "A pocas cuadras, caminando llegás en 5 minutos."
+    },
+    {
+      "question": "¿Se puede ir con mascota?",
+      "answer": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+    },
+    {
+      "question": "¿Tienen aire acondicionado?",
+      "answer": "Sí, en verano estás fresquito sin problema."
+    },
+    {
+      "question": "¿A qué hora llego y me voy?",
+      "answer": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "HOSTAL VAMPAYÁ",
+    "copyright": "© 2026 HOSTAL VAMPAYÁ. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "HOSTAL VAMPAYÁ",
+        "short_name": "HOSTAL VAMPAYÁ",
+        "tagline": "HOSTAL VAMPAYÁ - Accommodation",
+        "description": "HOSTAL VAMPAYÁ is your Salta hideaway after a day of exploring.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Salta · Balcarce 81",
+        "title_line1": "Your home in",
+        "title_em": "HOSTAL VAMPAYÁ",
+        "title_line2": "",
+        "subtitle": "A chill place to rest in Salta."
+      },
+      "about": {
+        "eyebrow": "Who we are",
+        "title": "Discover HOSTAL VAMPAYÁ.",
+        "paragraphs": [
+          "We're HOSTAL VAMPAYÁ, a hostel with all the good vibes of Salta. Pool, BBQ, kitchen, WiFi and a location that's perfect for exploring everything. Come and visit us!"
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Salta. Great location to explore the area."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there a pool?",
+          "answer": "Yes! In summer it's the best spot to cool off after sightseeing."
+        },
+        {
+          "question": "Can I leave my luggage before check-in?",
+          "answer": "Of course! Drop your bags and come back later. We'll keep them safe."
+        },
+        {
+          "question": "Can I bring my pet?",
+          "answer": "Ask us, sometimes we can make it work. We don't say no right away."
+        },
+        {
+          "question": "How do I book?",
+          "answer": "Send us a WhatsApp or email and we'll confirm right away. Easy as that."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "WhatsApp for everything",
+        "Real prices, no fine print",
+        "Travelers from all over have stayed with us"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "Sarah K.",
+          "rating": 5,
+          "text": "Amazing hospitality from the moment we arrived. Great location and such a warm vibe."
+        },
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        },
+        {
+          "author": "Lucas P.",
+          "rating": 4,
+          "text": "Great value and personalized attention you don't find anywhere else."
+        }
+      ],
+      "footer": {
+        "description": "HOSTAL VAMPAYÁ",
+        "copyright": "© 2026 HOSTAL VAMPAYÁ. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Hostel",
+        "name": "HOSTAL VAMPAYÁ",
+        "description": "HOSTAL VAMPAYÁ: pileta, parrilla, WiFi y la mejor ubicación en Salta.",
+        "url": "",
+        "telephone": "+5493875608957",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/HOSTAL+VAMPAY%C3%81/data=!4m10!3m9!1s0x941bc3ca479b60a1:0x3925630e9a78484a!5m2!4m1!1i2!8m2!3d-24.7887319!4d-65.4123794!16s%2Fg%2F11p73zrh9c!19sChIJoWCbR8rDG5QRSkh4mg5jJTk?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Balcarce 81, A4400 Salta",
+          "addressLocality": "Salta",
+          "addressCountry": "AR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -24.7887429,
+          "longitude": -65.412336
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Camas que invitan a quedarse",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Internet rápido y gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "En el corazón de la zona",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuánto queda para la playa/centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pocas cuadras, caminando llegás en 5 minutos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede ir con mascota?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen aire acondicionado?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en verano estás fresquito sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿A qué hora llego y me voy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};

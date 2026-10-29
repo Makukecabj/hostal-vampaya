@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hostal-vampaya.vercel.app/sitemap.xml
